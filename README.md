@@ -6,7 +6,7 @@
 My name is Fagner, I'm new in the world of programming, here has a few of my projects, I hope you enjoy. 
 the subject I like most is database. Someday i hope become a DBA.
 
-> - Things i like 
+   **Things i like 
  >
 > - DDL
  >
