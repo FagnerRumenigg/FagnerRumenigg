@@ -17,4 +17,6 @@ the subject I like most is database. Someday i hope become a DBA.
 > - PLSQL
  >
 > - JAVA
+  >
+ > - PYTHON
 
