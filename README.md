@@ -19,6 +19,7 @@ Right now, I'm working on my main project: **EntertainMe** 🎬 — an app that 
 - Release the first version of **EntertainMe** 🚀  
 - Deepen my knowledge in **microservices and cloud architectures**  
 - Improve my skills in **infrastructure as code** and **DevOps practices**  
+- Build a **Java library to handle Brazilian State Registration (Inscrição Estadual)** 📦  
 
 ---
 
